@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Single page application using the github api that allows users to search for and display open positions based on different parameters. 
 
 ## Available Scripts
 
